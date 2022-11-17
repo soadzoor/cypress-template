@@ -14,7 +14,7 @@
   "keywords": [
     "cypress",
     "typescript",
-	"test"
+    "test"
   ],
   "author": "Peter Varga",
   "license": "ISC",
